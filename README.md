@@ -16,4 +16,11 @@ _**Drill-Down Capabilities**_: Drill down into specific regions, categories, or 
 _**Filters**_: Apply filters to focus on specific segments of the data.
 _**Forecasting**_: View forecasted sales trends for the next 15 days using line charts.
 
+**Summary Tab Screenshot**
+![Summary Tab](Summary.png)
 
+**Dashboard Tab Screenshot**
+![Dashboard Tab](Dashboard.png)
+
+**Forecasting Tab Screenshot**
+![Forecasting Tab](Forecasting.png)
